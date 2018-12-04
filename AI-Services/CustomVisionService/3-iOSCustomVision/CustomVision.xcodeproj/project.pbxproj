@@ -1,8 +1,11 @@
 // !$*UTF8*$!
 {
 	archiveVersion = 1;
+	classes = {
+	};
 	objectVersion = 48;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		5EBF65121F0AA47700BCD353 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBF65111F0AA47700BCD353 /* AppDelegate.swift */; };
 		5EBF65141F0AA47700BCD353 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBF65131F0AA47700BCD353 /* ViewController.swift */; };
